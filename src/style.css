@@ -1,0 +1,36 @@
+.table {
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.table #csvFile {
+    margin: 20px;
+}   
+
+.table .input {
+    display: flex;
+    justify-content: center;
+}
+
+.table .input #csvFile {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+  background-color: #2ea44f;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 6px 16px;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #2c974b;
+}
